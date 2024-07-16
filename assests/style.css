@@ -1,0 +1,50 @@
+.navbar-brand img {
+    width: 200px;
+    height: 50px;
+}
+
+.call-us {
+    font-size: 18px !important;
+    font-weight: 400 !important;
+    color: #2D0000;
+    font-family: "Roboto", sans-serif;
+    margin-left: 26px;
+    margin-top: 10px;
+}
+.colr{
+    background: #2e0000;
+    color: #fff;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: #fff;
+}
+.nav-item a{
+    color: black;
+    font-weight: 600;
+}
+.img-item {
+    position: absolute;
+    top: 250px;
+    left: 100px;
+    color: #fff;
+    width: 41.6666666667%;
+    
+
+}
+.hero{
+    filter: grayscale(300);
+}
+.img-item h1{
+    color: #fff;
+    font-size: 70px;
+    display: block;
+    font-weight: 400;
+    line-height: 1.4;
+    margin-bottom: 6px;
+}
+.img-item p{
+    margin-bottom: 0px;
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.6;
+}
